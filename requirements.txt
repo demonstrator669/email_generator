@@ -1,1 +1,7 @@
 groq>=0.4.0
+pytz
+python-dateutil
+python-dotenv
+langchain
+langchain-groq
+langchain-community

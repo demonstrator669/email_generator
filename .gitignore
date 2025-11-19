@@ -44,7 +44,7 @@ sample_emails/
 
 # OS
 .DS_Store
-Thumbs.db
+Thumbs.db 
 
 # Testing
 .pytest_cache/
